@@ -14,6 +14,7 @@
 
 ## 12/fev - 18/fev
 - reunião semanal (+1)
+- redigir contratos e ofícios (+1)
 
 ## 19/fev - 25/fev
 
