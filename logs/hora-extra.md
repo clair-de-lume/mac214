@@ -18,4 +18,4 @@
 
 ## 19/fev - 25/fev
 
-# TOTAL: 5h
+# TOTAL: 6h
