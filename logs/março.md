@@ -4,4 +4,4 @@
 - manutenção do Facebook (+1h)
 - revisão de contratos de patrocinador e contato com IME Jr. (+1)
 
-  # TOTAL: 4h
+# TOTAL: 4h
