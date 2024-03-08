@@ -18,4 +18,6 @@
 
 ## 19/fev - 25/fev
 
-# TOTAL: 6h
+- reunião semanal (+1)
+
+# TOTAL: 7h
