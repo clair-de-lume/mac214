@@ -10,10 +10,11 @@
 - fazer planilha com infos da comissão +(0.5)
 - fazer orçamento de camisas (+0.5)
 
-## 11/03 - 17/03 (2h)
+## 11/03 - 17/03 (4h)
 
 - reunião com Brick Seguros (+1)
 - troca de e-mails com Irya (+0.5)
 - confirmar modo de uso da verba do IME (+0.5)
+- fazer orçamentos das camisetas (+2)
 
-# TOTAL: 8h
+# TOTAL: 10h
