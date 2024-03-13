@@ -12,6 +12,8 @@
 
 ## 11/03 - 17/03 (4h)
 
+- reunião semanal (+1)
+- reunião ByteCafé (+1)
 - reunião com Brick Seguros (+1)
 - troca de e-mails com Irya (+0.5)
 - confirmar modo de uso da verba do IME (+0.5)
