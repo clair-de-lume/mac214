@@ -10,7 +10,7 @@
 - fazer planilha com infos da comissão +(0.5)
 - fazer orçamento de camisas (+0.5)
 
-## 11/03 - 17/03 (4h)
+## 11/03 - 17/03 (6h)
 
 - reunião semanal (+1)
 - reunião ByteCafé (+1)
@@ -19,4 +19,4 @@
 - confirmar modo de uso da verba do IME (+0.5)
 - fazer orçamentos das camisetas (+2)
 
-# TOTAL: 10h
+# TOTAL: 12h
