@@ -10,13 +10,14 @@
 - fazer planilha com infos da comissão +(0.5)
 - fazer orçamento de camisas (+0.5)
 
-## 11/03 - 17/03 (6h)
+## 11/03 - 17/03 (7h)
 
 - reunião semanal (+1)
 - reunião ByteCafé (+1)
 - reunião com Brick Seguros (+1)
+- revisão de contratos e contato com IME Jr. (+1)
 - troca de e-mails com Irya (+0.5)
 - confirmar modo de uso da verba do IME (+0.5)
 - fazer orçamentos das camisetas (+2)
 
-# TOTAL: 12h
+# TOTAL: 13h
