@@ -20,4 +20,10 @@
 - confirmar modo de uso da verba do IME (+0.5)
 - fazer orçamentos das camisetas (+2)
 
-# TOTAL: 13h
+## 18/03 - 24/03
+- reunião semanal (+1)
+- compra de passagens aéreas para palestrante (+1)
+- revisão de termos de serviço com IME Jr. (+1)
+- fazer lista de e-mails de professores no Google Contacts (+1)
+
+# TOTAL: 17h
