@@ -5,6 +5,9 @@ Anotações sobre o que deve ser escrito no guia
 
 ## Divulgação
 
+## Dia do evento
+- guardar um coffee break para os palestrantes do horário logo após e logo antes do coffee break
+
 ## Contatos
 - IME Jr.
 - Apoio
