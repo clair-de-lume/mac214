@@ -6,7 +6,7 @@
 - definição de patrocínio da QI Tech (+1)
 - encomenda das camisetas (+1)
 
-  ## 08/04 - 14/04 (+1)
+## 08/04 - 14/04 (+1)
 - orçamento e design de brindes (+3)
 
 # Total: 8h
