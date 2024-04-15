@@ -13,6 +13,7 @@
 - diálogo com empresas (QI Tech e BTG) (+2)
 - finalização do coffee break (+2)
 - reunião semanal (+1)
+- elaboração e revisão de texto de confirmação de palestra (+1)
 
 ## 22/04 - 28/04
 - participação no evento no dia 22
@@ -21,4 +22,4 @@
 - participação no evento no dia 25
 - participação no evento no dia 26
 
-# Total: 14h
+# Total: 15h
