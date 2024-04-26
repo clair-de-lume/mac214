@@ -19,11 +19,11 @@
 - criar forms de presença (+2)
 - criar forms de feedback (+1)
 
-## 22/04 - 28/04 (20h)
+## 22/04 - 28/04 (22h)
 - participação no evento no dia 22 (+8)
 - participação no evento no dia 23 (+8)
 - participação no evento no dia 24 (+3)
-- participação no evento no dia 25 (+1)
+- participação no evento no dia 25 (+3)
 - participação no evento no dia 26 
 
-# Total: 42h
+# Total: 44h
