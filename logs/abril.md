@@ -19,11 +19,12 @@
 - criar forms de presença (+2)
 - criar forms de feedback (+1)
 
-## 22/04 - 28/04 (32h)
+## 22/04 - 28/04 (34h)
 - participação no evento no dia 22 (+8)
 - participação no evento no dia 23 (+8)
 - participação no evento no dia 24 (+3)
 - participação no evento no dia 25 (+3)
 - participação no evento no dia 26 (+10)
+- subir fotos e apresentações no Drive e iniciar lista de e-mails autorizados para compartilhar com empresas (+2)
 
-# Total: 54h
+# Total: 56h
