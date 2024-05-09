@@ -6,3 +6,11 @@ Logs de trabalho semanais da matéria MAC0214 organizando a Semana da Computaç�
 - [Logs de Março](https://github.com/clair-de-lume/mac214/blob/main/logs/março.md)
 - [Logs de Abril](https://github.com/clair-de-lume/mac214/blob/main/logs/abril.md)
 - [Logs de Maio](https://github.com/clair-de-lume/mac214/blob/main/logs/maio.md)
+
+# Total de horas
+- Hora extra: 7h
+- Março: 16h
+- Abril: 56h
+- Maio: 1h
+- Junho: 0h
+### Total: 80h
