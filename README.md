@@ -12,6 +12,6 @@ Logs de trabalho semanais da matéria MAC0214 organizando a Semana da Computaç�
 - Hora extra: 7h
 - Março: 16h
 - Abril: 56h
-- Maio: 1h
+- Maio: 4h
 - Junho: 0h
-### Total: 80h
+### Total: 83h
