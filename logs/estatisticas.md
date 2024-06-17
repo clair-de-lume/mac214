@@ -24,7 +24,7 @@ Esse arquivo mostra o número de horas trabalhadas durante o semestre de acordo 
 
 ## Brindes e camisetas
 - Hora extra:
-- Março: 2h
+- Março: 2.5h
 - Abril: 4h
 - Maio:
 - Junho:
