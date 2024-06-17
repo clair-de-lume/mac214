@@ -45,3 +45,12 @@ TOTAL: 8.5h
 - Junho: 0h
 
 TOTAL: 32h
+
+## Escrita do guia
+- Hora extra: 0h
+- Março: 0h
+- Abril: 0h
+- Maio: 0h
+- Junho: 10h
+
+TOTAL: 10h
