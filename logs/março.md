@@ -1,6 +1,6 @@
 ## 26/02 - 03/03 (4h)
 - reunião semanal (+1h) **[REUNIÕES]**
-- elaboração de ofício de verba e reserva de recursos (+1h) **[REUNIÕES]**
+- elaboração de ofício de verba e reserva de recursos (+1h) **[MISCELÂNEA]**
 - manutenção do Facebook (+1h) **[MISCELÂNEA]**
 - revisão de contratos de patrocinador e contato com IME Jr. (+1) **[PATROCINADORES]**
 
