@@ -15,13 +15,6 @@ Esse arquivo mostra o número de horas trabalhadas durante o semestre de acordo 
 - Maio: 1h
 - Junho:
 
-## Brindes
-- Hora extra:
-- Março:
-- Abril:
-- Maio:
-- Junho:
-
 ## Organização
 - Hora extra: 2h
 - Março: 7h
