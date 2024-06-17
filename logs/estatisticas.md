@@ -26,8 +26,8 @@ Esse arquivo mostra o número de horas trabalhadas durante o semestre de acordo 
 - Hora extra:
 - Março: 2.5h
 - Abril: 4h
-- Maio:
-- Junho:
+- Maio: 0h
+- Junho: 2h
 
 ## Participação no dia de evento
 - Hora extra:
