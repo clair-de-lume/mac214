@@ -9,7 +9,7 @@ Esse arquivo mostra o número de horas trabalhadas durante o semestre de acordo 
 - Junho:
 
 ## Patrocínio
-- Hora extra:
+- Hora extra: 1h
 - Março: 1h
 - Abril: 4h
 - Maio:
