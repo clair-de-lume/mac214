@@ -1,10 +1,12 @@
 ## 01/06 - 09/06
 
-## 10/06 - 16/06 (+5)
+## 10/06 - 16/06 (+11)
 - divulgação da compra da camiseta (+1)
-- escrita do guia (+4) 
+- escrita do guia (+10) 
 
 ## 17/06 - 23/06 (+1)
 - encomenda das camisetas (+1)
 
 ## 24/06 - 30/06
+
+# Total: 12h
