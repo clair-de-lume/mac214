@@ -17,7 +17,7 @@ Esse arquivo mostra o número de horas trabalhadas durante o semestre de acordo 
 
 ## Miscelânea (burocracias, organização e design)
 - Hora extra: 1h
-- Março: 
+- Março: 5h
 - Abril:
 - Maio:
 - Junho:
