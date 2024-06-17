@@ -13,5 +13,5 @@ Logs de trabalho semanais da matéria MAC0214 organizando a Semana da Computaç�
 - Março: 16h
 - Abril: 56h
 - Maio: 4h
-- Junho: 6h
-### Total: 89h
+- Junho: 12h
+### Total: 95h
