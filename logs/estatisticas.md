@@ -51,6 +51,6 @@ TOTAL: 32h
 - Março: 0h
 - Abril: 0h
 - Maio: 0h
-- Junho: 10h
+- Junho: 15h
 
-TOTAL: 10h
+TOTAL: 15h
