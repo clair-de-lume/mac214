@@ -8,5 +8,6 @@
 - encomenda das camisetas (+1) **[BRINDES E CAMISETAS]**
 
 ## 24/06 - 30/06
+- escrita do guia (+5)
 
-# Total: 12h
+# Total: 17h
